@@ -12,9 +12,9 @@
 | 0x06     | password         | 社工，爆破           |
 | 0x07     | 变异凯撒         | 凯撒变形             |
 | 0x08     | Quoted-printable | Quoted-printable编码 |
-| 0x09     |                  |                      |
-| 0x0A     |                  |                      |
-| 0x0B     |                  |                      |
+| 0x09     | Rabbit           | Rabbit密码           |
+| 0x0A     | 篱笆墙的影子     | 栅栏                 |
+| 0x0B     | RSA              | RSA加密              |
 | 0x0C     |                  |                      |
 | 0x0D     |                  |                      |
 | 0x0E     |                  |                      |
